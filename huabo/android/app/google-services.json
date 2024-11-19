@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895477471440",
+    "project_id": "huaboapp",
+    "storage_bucket": "huaboapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895477471440:android:df6f6c7257c04c0cf8e6d5",
+        "android_client_info": {
+          "package_name": "com.example.huabo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALN57dfWCj6TrKQRKqQHLnlhq4CK7jl4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

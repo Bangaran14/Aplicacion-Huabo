@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"huaboapp","appId":"1:895477471440:android:df6f6c7257c04c0cf8e6d5","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"huaboapp","configurations":{"android":"1:895477471440:android:df6f6c7257c04c0cf8e6d5","ios":"1:895477471440:ios:da87f7f6d0351722f8e6d5"}}}}}}
